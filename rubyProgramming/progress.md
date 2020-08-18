@@ -13,6 +13,10 @@
 - [x] Read through the [Preparations of Launch](https://launchschool.com/books/ruby/read/preparations#usingacodeeditor) School’s *Introduction to Programming with Ruby* book for some helpful advice about using and learning Ruby effectively.
 - [x] Now that you’ve learned a few ways to interact with your Ruby code, [read about how to use code files inside IRB](https://stackoverflow.com/questions/13112245/ruby-how-to-load-a-file-into-interactive-ruby-console-irb/38533339), which will be helpful for quick troubleshooting and experimenting.
 
+#### Additional (Optional) Resources
+
+- [ ] [Learn to Program](https://pine.fm/LearnToProgram/) By Chris Pine
+
 <!-- ### 2. Installing Ruby
 
 #### Assignment
